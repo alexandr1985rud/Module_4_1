@@ -8,5 +8,5 @@ def divide(first, second):
         return first / second
 
 
-divide(49, 7)
-divide(15, 0)
+# divide(49, 7)
+# divide(15, 0)
